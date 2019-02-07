@@ -29,7 +29,7 @@ void loop() {
         g = Serial.parseInt();
         b = Serial.parseInt();
 
-        leds[lednum].setRGB(r, g, b);
+        leds[lednum].setRGB(g, r, b);
         FastLED.show();
       }
     }
