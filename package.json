@@ -15,6 +15,8 @@
     "axios": "^0.18.0",
     "dotenv": "^6.2.0",
     "lodash": "^4.17.11",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0",
     "xebra.js": "^1.2.5"
   }
 }

@@ -20,7 +20,7 @@ void setup() {
 
 void loop() {
 
-        if ( Serial.available()  > 5) {
+        if ( Serial.available() > 0) {
                 command = Serial.read();
 
                 if (command == 's') {
