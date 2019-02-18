@@ -59,7 +59,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 496.0, 844.0, 50.0, 35.0 ],
-					"text" : "L 0 74 121 29"
+					"text" : "L 0 0 0 0"
 				}
 
 			}
@@ -190,11 +190,11 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-10",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 311.0, 355.0, 30.0, 30.0 ]
 				}
 
@@ -251,7 +251,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-2",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -388,7 +388,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
 					"patching_rect" : [ 260.0, 873.0, 177.0, 22.0 ],
-					"text" : "serial usbmodem142421 38400"
+					"text" : "serial usbmodem146421 38400"
 				}
 
 			}
@@ -645,7 +645,9 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }
