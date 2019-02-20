@@ -424,8 +424,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 4282.50048828125, 2256.0, 57.0, 22.0 ],
-					"text" : "point"
+					"patching_rect" : [ 4282.50048828125, 2256.0, 81.0, 22.0 ],
+					"text" : "point 108 480"
 				}
 
 			}
@@ -540,8 +540,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 3657.50048828125, 2256.0, 57.0, 22.0 ],
-					"text" : "point"
+					"patching_rect" : [ 3657.50048828125, 2256.0, 80.0, 22.0 ],
+					"text" : "point 115 475"
 				}
 
 			}
@@ -704,8 +704,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 3023.50048828125, 2256.0, 57.0, 22.0 ],
-					"text" : "point"
+					"patching_rect" : [ 3023.50048828125, 2256.0, 75.0, 22.0 ],
+					"text" : "point 94 402"
 				}
 
 			}
@@ -808,8 +808,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 2398.50048828125, 2256.0, 57.0, 22.0 ],
-					"text" : "point"
+					"patching_rect" : [ 2398.50048828125, 2256.0, 81.0, 22.0 ],
+					"text" : "point 130 548"
 				}
 
 			}
@@ -1072,8 +1072,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 1763.50048828125, 2256.0, 57.0, 22.0 ],
-					"text" : "point"
+					"patching_rect" : [ 1763.50048828125, 2256.0, 80.0, 22.0 ],
+					"text" : "point 115 487"
 				}
 
 			}
@@ -1688,8 +1688,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 1131.50048828125, 2256.0, 57.0, 22.0 ],
-					"text" : "point"
+					"patching_rect" : [ 1131.50048828125, 2256.0, 81.0, 22.0 ],
+					"text" : "point 126 524"
 				}
 
 			}
@@ -2340,8 +2340,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 496.50042724609375, 2256.0, 57.0, 22.0 ],
-					"text" : "point"
+					"patching_rect" : [ 496.50042724609375, 2256.0, 81.0, 22.0 ],
+					"text" : "point 120 468"
 				}
 
 			}
