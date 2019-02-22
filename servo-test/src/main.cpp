@@ -14,7 +14,7 @@ void setup() {
         pwm.begin();
         pwm.setPWMFreq(60);
 
-        Serial.begin(38400);
+        Serial.begin(115200);
 
 }
 

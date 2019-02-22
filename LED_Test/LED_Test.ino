@@ -21,18 +21,16 @@ void setup() {
 void loop() {
 
 for (int i = 0; i < 255; i++) {
-  leds[0].setRGB(i, i, i);
   leds[1].setRGB(i, i, i);
-  leds[2].setRGB(i, i, i);
+ 
   leds[3].setRGB(i, i, i);
   FastLED.show();
   delay(10);
 }
 
 for (int i = 255; i > 0; i--) {
-  leds[0].setRGB(i, i, i);
+ 
   leds[1].setRGB(i, i, i);
-  leds[2].setRGB(i, i, i);
   leds[3].setRGB(i, i, i);
   FastLED.show();
   delay(10);
