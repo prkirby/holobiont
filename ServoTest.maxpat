@@ -140,8 +140,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 1409.0, 709.0, 162.0, 22.0 ],
-					"text" : "serial usbmodem1411 38400"
+					"patching_rect" : [ 1409.0, 709.0, 168.0, 22.0 ],
+					"text" : "serial usbmodem1411 115200"
 				}
 
 			}
@@ -225,7 +225,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1438.0, 243.5, 208.0, 24.5 ],
+					"patching_rect" : [ 1438.0, 254.0, 208.0, 24.5 ],
 					"size" : 181.0
 				}
 
@@ -1068,7 +1068,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 21.0, 382.0, 80.0, 22.0 ],
-					"text" : "s 1 150"
+					"text" : "s 0 140"
 				}
 
 			}
