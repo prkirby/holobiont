@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 79.0, 1852.0, 967.0 ],
+		"rect" : [ 34.0, 79.0, 1549.0, 967.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1055,8 +1055,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 116.0, 482.0, 176.0, 22.0 ],
-					"text" : "serial usbmodem146411 38400"
+					"patching_rect" : [ 116.0, 482.0, 182.0, 22.0 ],
+					"text" : "serial usbmodem147411 115200"
 				}
 
 			}
@@ -1068,7 +1068,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 21.0, 382.0, 80.0, 22.0 ],
-					"text" : "s 0 140"
+					"text" : "s 0 115"
 				}
 
 			}
@@ -1080,7 +1080,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 21.0, 432.0, 80.0, 22.0 ],
-					"text" : "48"
+					"text" : "53"
 				}
 
 			}
@@ -1399,13 +1399,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
 					"source" : [ "obj-29", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-7", 1 ],
-					"source" : [ "obj-3", 0 ]
 				}
 
 			}
