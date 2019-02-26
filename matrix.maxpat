@@ -39,13 +39,51 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-350",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1205.0, 226.0, 103.0, 22.0 ],
+					"text" : "s globalAmplitude"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"format" : 6,
+					"id" : "obj-346",
+					"maxclass" : "flonum",
+					"maximum" : 1.0,
+					"minimum" : 0.0,
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 1205.0, 181.0, 50.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 20.0,
+					"id" : "obj-338",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1205.0, 126.0, 243.0, 29.0 ],
+					"text" : "Global Amplitude"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-358",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 1604.0, 312.0, 173.0, 22.0 ],
-					"text" : "serial usbmodem1411 115200"
+					"patching_rect" : [ 1604.0, 312.0, 182.0, 22.0 ],
+					"text" : "serial usbmodem147431 115200"
 				}
 
 			}
@@ -68,8 +106,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 1398.0, 312.0, 173.0, 22.0 ],
-					"text" : "serial usbmodem1411 115200"
+					"patching_rect" : [ 1398.0, 312.0, 182.0, 22.0 ],
+					"text" : "serial usbmodem147421 115200"
 				}
 
 			}
@@ -104,8 +142,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 1205.0, 312.0, 173.0, 22.0 ],
-					"text" : "serial usbmodem1411 115200"
+					"patching_rect" : [ 1205.0, 312.0, 182.0, 22.0 ],
+					"text" : "serial usbmodem147411 115200"
 				}
 
 			}
@@ -6644,6 +6682,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-344", 0 ],
+					"source" : [ "obj-328", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-96", 1 ],
 					"source" : [ "obj-329", 0 ]
 				}
@@ -6721,6 +6766,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-350", 0 ],
+					"source" : [ "obj-346", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-149", 1 ],
 					"source" : [ "obj-347", 0 ]
 				}
@@ -6758,6 +6810,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-154", 1 ],
 					"source" : [ "obj-353", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-352", 0 ],
+					"source" : [ "obj-354", 0 ]
 				}
 
 			}
