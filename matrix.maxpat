@@ -2620,7 +2620,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 3961.000732421875, 2270.333251953125, 108.0, 22.0 ],
-					"text" : "point 250 275 3 20"
+					"text" : "point 170 420 3 20"
 				}
 
 			}
@@ -2731,12 +2731,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-231",
+					"linecount" : 6,
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 3336.000732421875, 2270.333251953125, 108.0, 22.0 ],
-					"text" : "point 250 275 3 21"
+					"patching_rect" : [ 3336.000732421875, 2270.333251953125, 29.5, 89.0 ],
+					"text" : "point 140 475 3 21"
 				}
 
 			}
@@ -2900,7 +2901,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 2702.000732421875, 2270.333251953125, 108.0, 22.0 ],
-					"text" : "point 250 275 3 22"
+					"text" : "point 145 435 3 22"
 				}
 
 			}
