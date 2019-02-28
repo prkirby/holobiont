@@ -128,8 +128,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 365.0, 584.0, 102.0, 22.0 ],
-					"text" : "if $f1 == 0. then 0"
+					"patching_rect" : [ 365.0, 584.0, 192.0, 22.0 ],
+					"text" : "if $f1 >= 0.2 && $f1 <= 0.25 then 0"
 				}
 
 			}
@@ -544,7 +544,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 683.0, 1071.0, 46.0, 35.0 ],
-					"text" : "s 27 170"
+					"text" : "s 31 160"
 				}
 
 			}
