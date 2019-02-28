@@ -155,7 +155,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
 					"patching_rect" : [ 1609.0, 379.0, 182.0, 22.0 ],
-					"text" : "serial usbmodem147431 115200"
+					"text" : "serial usbmodem146431 115200"
 				}
 
 			}
@@ -179,7 +179,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
 					"patching_rect" : [ 1403.0, 379.0, 182.0, 22.0 ],
-					"text" : "serial usbmodem147421 115200"
+					"text" : "serial usbmodem146421 115200"
 				}
 
 			}
@@ -215,7 +215,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
 					"patching_rect" : [ 1210.0, 379.0, 182.0, 22.0 ],
-					"text" : "serial usbmodem147411 115200"
+					"text" : "serial usbmodem146411 115200"
 				}
 
 			}
@@ -2731,12 +2731,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-231",
-					"linecount" : 6,
+					"linecount" : 5,
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 3336.000732421875, 2270.333251953125, 29.5, 89.0 ],
+					"patching_rect" : [ 3336.000732421875, 2270.333251953125, 32.0, 76.0 ],
 					"text" : "point 140 475 3 21"
 				}
 
@@ -7669,14 +7669,14 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "point.maxpat",
-				"bootpath" : "~/WebDev/holobiont",
+				"bootpath" : "~/WebDev/holobiont/holobiont-max",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "main.js",
-				"bootpath" : "~/WebDev/holobiont",
+				"bootpath" : "~/WebDev/holobiont/holobiont-max",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
