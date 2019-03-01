@@ -2528,7 +2528,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 148.0, 235.0, 97.0, 22.0 ],
-					"text" : "scale 0. 1. 80 38"
+					"text" : "scale 0. 1. 80 50"
 				}
 
 			}
@@ -2594,7 +2594,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"offset" : [ 0.0, 0.0 ],
-					"patching_rect" : [ 666.5, 146.0, 400.0, 220.0 ],
+					"patching_rect" : [ 666.5, 199.0, 400.0, 220.0 ],
 					"viewvisibility" : 1
 				}
 
